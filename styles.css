@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+img {
+    float: left; 
+    margin-right: 20px; 
+    border-radius: 50%; 
+    width: 150px; 
+    height: auto; 
+}
 
 body {
     font-family: 'Inter', sans-serif;
