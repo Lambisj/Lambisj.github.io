@@ -45,32 +45,32 @@ section {
 }
 /* Αλλάζει το χρώμα του email link */
 a[href^="mailto:"] {
-    color: #cf9516;  /* Σκούρο πράσινο */
+    color: #cf9516;  
     font-weight: bold;
 }
 
 a[href^="mailto:"]:hover {
-    color: #cf9516;  /* Ακόμα πιο σκούρο πράσινο στο hover */
+    color: #cf9516; 
 }
 
 /* Αλλάζει το χρώμα του LinkedIn link */
 a[href*="linkedin.com"] {
-    color: #cf9516;  /* Σκούρο πράσινο */
+    color: #cf9516; 
     font-weight: bold;
 }
 
 a[href*="linkedin.com"]:hover {
-    color: #cf9516;  /* Ακόμα πιο σκούρο πράσινο στο hover */
+    color: #cf9516; 
 }
 
 /* Αλλάζει το χρώμα του GitHub link */
 a[href*="github.com"] {
-    color: #cf9516;  /* Σκούρο πράσινο */
+    color: #cf9516;  
     font-weight: bold;
 }
 
 a[href*="github.com"]:hover {
-    color: #cf9516;  /* Ακόμα πιο σκούρο πράσινο στο hover */
+    color: #cf9516;  
 }
 
 /* Responsive Design */
